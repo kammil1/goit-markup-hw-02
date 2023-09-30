@@ -25,8 +25,11 @@ body{
 
 
 
+
+
 .logo{
-    font-family: 'Raleway', sans-serif;
+
+font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 800;
     line-height: 1.16;
@@ -35,8 +38,9 @@ body{
     text-decoration: none;
 }
 
+        
 .logo-web{
-    color: var(--color-iris);
+color: var(--color-iris);
 }
 
 .menu-link{
