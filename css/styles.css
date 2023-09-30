@@ -30,17 +30,18 @@ body{
 .logo{
 
 font-family: 'Raleway', sans-serif;
+color: var(--color-iris);
     font-size: 18px;
     font-weight: 800;
-    line-height: 1.16;
-    letter-spacing: 0.034em;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
 }
 
         
 .logo-web{
-color: var(--color-iris);
+color: var(--color-navy-blue);
 }
 
 .menu-link{
