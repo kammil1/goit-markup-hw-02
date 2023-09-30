@@ -28,6 +28,7 @@ body{
 .logo{
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
+    font-weight: 800;
     line-height: 1.16;
     letter-spacing: 0.034em;
     text-transform: uppercase;
