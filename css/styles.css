@@ -161,10 +161,6 @@ font-weight: 500;
     
 }
 
-.filters-list{
-    list-style-type: none;
-
-}
 
 .filter-button{
     font-family: inherit;
@@ -177,9 +173,7 @@ font-weight: 500;
     cursor: pointer;
 }
 
-.cards{
-list-style-type: none;
-}
+
 
 .list-cards-text{
     color: var(--color-slate);
