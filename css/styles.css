@@ -116,7 +116,7 @@ font-weight: 500;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.045em;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
@@ -134,30 +134,19 @@ font-weight: 500;
     color: var(--color-slate);
 }
 
-
-
-.section-two-list{
-    list-style-type: none;
+.section-two-text {
+    color: var(color --color-slate);
+    text-align: center;
 }
+
+
 
 .section-three{
   background-color: var(--color-cloud);  
 }
 
-.header-two{
-color: var(--color-navy-blue);
-text-align: center;
-font-size: 36px;
-font-weight: 700;
-line-height: 1.11;
-letter-spacing: 0.045em;
-text-transform: capitalize;
-}
 
-.section-two-text{
-    color:var(color --color-slate);
-    text-align: center;
-}
+
 
 .section-three-card{
     background-color: var(--color-white);
