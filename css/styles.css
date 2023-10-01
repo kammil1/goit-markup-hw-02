@@ -53,13 +53,24 @@ color: var(--color-navy-blue);
 font-weight: 500;
 }
 
-
+.list-nav:hover,
+.list-nav:active{
+    color: var(--color-ocean);
+}
 
 .address-link{
-    font-size: 12px;
-    line-height: 1.33;
+    color: var(--color-slate);
     letter-spacing: 0.003em;
+    font-style: normal;
 }
+
+.address-link:hover,
+.address-link:active{
+    color: var(--color-ocean);
+}
+
+
+
 
 .main{
     background-color: var(--color-navy-blue);
