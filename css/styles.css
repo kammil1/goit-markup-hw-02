@@ -54,7 +54,7 @@ font-weight: 500;
 }
 
 .list-nav:hover,
-.list-nav:active{
+.list-nav:focus{
     color: var(--color-ocean);
 }
 
@@ -65,7 +65,7 @@ font-weight: 500;
 }
 
 .address-link:hover,
-.address-link:active{
+.address-link:focus{
     color: var(--color-ocean);
 }
 
