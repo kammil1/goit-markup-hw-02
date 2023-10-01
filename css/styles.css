@@ -45,7 +45,10 @@ color: var(--color-iris);
 
         
 .logo-studio{
-color: var(--color-cloud);
+color: var(--color-navy-blue);
+}
+.footer-studio{
+    color: var(--color-cloud);
 }
 
 .list-nav{
