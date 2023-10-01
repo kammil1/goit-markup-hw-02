@@ -23,9 +23,13 @@ body{
     --color-dairy:#2E2F4266;
 }
 
+.list{
+    list-style-type: none;
+}
 
-
-
+.link{
+    text-decoration: none;
+}
 
 .logo{
 
@@ -36,11 +40,10 @@ color: var(--color-iris);
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    text-decoration: none;
+    
 }
-
-        
-.logo-web{
+       
+.logo-studio{
 color: var(--color-navy-blue);
 }
 
@@ -57,7 +60,6 @@ color: var(--color-navy-blue);
     color: var(--color-navy-blue);
     font-weight: 500;
     letter-spacing: 0.32px;
-    list-style-type: none;
 }
 
 .address-link{
